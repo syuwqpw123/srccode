@@ -1,6 +1,6 @@
 local ESPEnabled = true
 local DistanceEnabled = true
-local TracersEnabled = true
+local TracersEnabled = fasle
 
 pcall(function()
 	
